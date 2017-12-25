@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514196958 source:c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z3\event.cpp
+	<iostream>
+	"event.h"
+
+1514197106 c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z3\event.h
+	<iostream>
+
+1514196917 source:c:\users\krecik\desktop\codeblock\podejœcie_obiektowe_z3\main.cpp
+	<iostream>
+	"event.h"
+
